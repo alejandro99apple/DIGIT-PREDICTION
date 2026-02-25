@@ -1,0 +1,41 @@
+# .gitignore - Archivos que no se versiona en git
+
+# Ambientes virtuales
+venv/
+env/
+ENV/
+.venv
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caché de tests
+.pytest_cache/
+.coverage
+
+# Modelos (archivos grandes)
+models/*.pth
+models/*.h5
+models/*.pkl
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Datos
+archive/
+*.csv
+*.json
+
+# Logs
+*.log
