@@ -9,11 +9,6 @@ A graphical application to classify handwritten digits (0-9) using a CNN trained
 
 ## Features
 
-https://github.com/user-attachments/assets/11e5e20a-d84b-4789-b8c0-d1bd16d2c9df
-![MNIST](https://github.com/user-attachments/assets/52e2c9d9-5892-45a5-a367-8559b4065bb4)
-![MNIST](https://github.com/user-attachments/assets/52e2c9d9-5892-45a5-a367-8559b4065bb4)
-
-
 
 ✓ **Interactive drawing canvas** - Draw on a 28x28 pixel grid
 ✓ **Real-time prediction** - Press PREDICT to classify your digit
