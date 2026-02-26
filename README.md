@@ -3,13 +3,15 @@
 A graphical application to classify handwritten digits (0-9) using a CNN trained on the MNIST dataset.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/11e5e20a-d84b-4789-b8c0-d1bd16d2c9df" width="400" controls autoplay muted loop></video>
-  <p><i>Demostración del clasificador MNIST</i></p>
+  <img src="https://github.com/user-attachments/assets/52e2c9d9-5892-45a5-a367-8559b4065bb4" width="400" alt="MNIST Classifier Demo"/>
+  <p><i>MNIST Digit Classifier Demo</i></p>
 </div>
 
 ## Features
 
 https://github.com/user-attachments/assets/11e5e20a-d84b-4789-b8c0-d1bd16d2c9df
+![MNIST](https://github.com/user-attachments/assets/52e2c9d9-5892-45a5-a367-8559b4065bb4)
+![MNIST](https://github.com/user-attachments/assets/52e2c9d9-5892-45a5-a367-8559b4065bb4)
 
 
 
