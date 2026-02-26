@@ -2,7 +2,16 @@
 
 A graphical application to classify handwritten digits (0-9) using a CNN trained on the MNIST dataset.
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/11e5e20a-d84b-4789-b8c0-d1bd16d2c9df" width="400" controls></video>
+  <p><i>Demostración del clasificador MNIST</i></p>
+</div>
+
 ## Features
+
+https://github.com/user-attachments/assets/11e5e20a-d84b-4789-b8c0-d1bd16d2c9df
+
+
 
 ✓ **Interactive drawing canvas** - Draw on a 28x28 pixel grid
 ✓ **Real-time prediction** - Press PREDICT to classify your digit
